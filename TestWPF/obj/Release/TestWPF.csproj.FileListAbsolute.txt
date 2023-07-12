@@ -1,0 +1,16 @@
+C:\Projects\TestWPF\TestWPF\bin\Release\TestWPF.exe.config
+C:\Projects\TestWPF\TestWPF\bin\Release\TestWPF.exe
+C:\Projects\TestWPF\TestWPF\bin\Release\TestWPF.pdb
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.csproj.AssemblyReference.cache
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.csproj.SuggestedBindingRedirects.cache
+C:\Projects\TestWPF\TestWPF\obj\Release\MainWindow.g.cs
+C:\Projects\TestWPF\TestWPF\obj\Release\App.g.cs
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF_MarkupCompile.cache
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF_MarkupCompile.lref
+C:\Projects\TestWPF\TestWPF\obj\Release\MainWindow.baml
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.g.resources
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.Properties.Resources.resources
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.csproj.GenerateResource.cache
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.csproj.CoreCompileInputs.cache
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.exe
+C:\Projects\TestWPF\TestWPF\obj\Release\TestWPF.pdb
